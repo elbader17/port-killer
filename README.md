@@ -1,4 +1,3 @@
-````
 # Port Killer
 
 `Port Killer` is a simple command-line tool to find and kill processes that are occupying (listening) on a specific TCP port.
@@ -74,4 +73,3 @@ Now, you can simply run the alias in your terminal:
 ```bash
 freeport
 ```
-````
